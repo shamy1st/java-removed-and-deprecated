@@ -3,6 +3,7 @@
 Feature                                             | Released | Deprecated | Removed
 ----------------------------------------------------|----------|------------|---------
 [PermGen](https://github.com/shamy1st/java-permgen) |          |            | Java 8
+[JavaFX](https://github.com/shamy1st/javafx)        | Java 8   |            | Java 11
 [Nashorn](https://github.com/shamy1st/java-nashorn) | Java 8   | Java 11    | Java 15
 
 ## Ref
